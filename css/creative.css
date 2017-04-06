@@ -283,6 +283,10 @@ header .header-content .header-content-inner p {
 .text-primary {
   color: #F05F40;
 }
+.hobby{
+ border-bottom:1px solid black; 
+}
+
 .no-gutter > [class*='col-'] {
   padding-right: 0;
   padding-left: 0;
@@ -414,3 +418,5 @@ img::-moz-selection {
 body {
   webkit-tap-highlight-color: #222222;
 }
+
+
